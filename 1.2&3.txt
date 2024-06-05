@@ -1,0 +1,58 @@
+ 
+2. What is OOP? List OOP concepts.
+ans- 
+
+   OOP stands for Object-Oriented Programming
+   Object Oriented Programming is an approach or a programming pattern where the programs are structured around objects rather than functions and logic.
+   It makes the data partitioned into two memory areas, i.e., data and functions, and helps make the code flexible and modular. 
+   it is easy to maintain the code with the help of classes and objects.
+
+ OOP concepts :- 
+
+  *	Classes 
+  *	Objects
+  *	Encapsulation
+  *	Inheritance
+  *	Polymorphism
+  *	Abstraction
+
+-> Classes :- Classes are blueprints for creating objects. They define the structure and behavior of objects by specifying data and functions.
+
+-> objects :- Objects are instances of classes that encapsulate data and methods. They are the building blocks of OOP and represent real-world concepts.
+
+-> Encapsulation :- Encapsulation is the bundling of data and methods that operate on that data within a single class. It hides the internal state of an object and 
+                    only exposes the necessary functionalities through methods.
+
+-> Inheritance :- Inheritance allows a class to inherit attributes and methods from another class. It promotes code reusability and enables hierarchical 
+                  relationships between classes.
+
+-> Polymorphism :- Polymorphism allows objects of different classes to be treated as objects of a common superclass. It enables flexibility and extensibility by
+                   providing a way to perform a single action in different ways.
+
+-> Abstraction :- Abstraction focuses on hiding complex implementation details and only showing the necessary features of an object. It allows developers to
+                  create simplified models that represent real-world objects more efficiently.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. What is the difference between OOP and POP?
+ans- 
+
+* Object-Oriented Programming (OOP) :-
+
+-> OOP is based on the concept of "objects", which are instances of classes. Objects encapsulate data and methods or functions.
+-> OOP include encapsulation, inheritance, polymorphism, and abstraction.
+-> Encapsulation means bundling data and methods that operate on the data together, hiding the internal state of objects and only allowing access through 
+   well-defined interfaces.
+-> Inheritance allows classes to inherit properties and methods from other classes, promoting code reuse and hierarchical organization.
+-> Polymorphism allows objects of different classes to be treated as objects of a common superclass, enabling flexibility and extensibility.
+-> Abstraction involves simplifying complex systems by modeling them at a high level and focusing on the essential characteristics while hiding unnecessary details.
+
+* Procedural Programming (POP) :-
+
+-> POP focuses on procedures or routines, which are sequences of instructions executed step by step. The program is organized around procedures that manipulate data.
+-> In POP, data and procedures are separate entities. Data is typically stored in data structures like arrays or structs, and functions operate on this data.
+-> POP follows a top-down approach, breaking down a problem into smaller tasks and solving them one by one using procedures.
+-> There is less emphasis on data abstraction and encapsulation compared to OOP. Instead, the focus is on designing algorithms and controlling the flow of execution.
+-> POP is often considered simpler and more straightforward for smaller programs or tasks where the complexity of object-oriented design may be unnecessary.	
+	
+
